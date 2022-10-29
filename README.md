@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RatneshFlash
-- 👀 I’m interested in C++, Linux, Product Technical Designing
-- 🌱 I’m currently learning frontend languages
-- 💞️ I’m looking to collaborate on freelance opportunity as per my skill
+- 👀 I’m interested in C, C++, Linux, Algorithm, ML
+- 🌱 I’m currently learning C++, Python languages
+- 💞️ I’m looking to collaborate with people in Automotive, AI, ML for enrich  my technical skill.
 - 📫 you can reach me @ ratnesh_zin@yahoo.com
 
 <!---
